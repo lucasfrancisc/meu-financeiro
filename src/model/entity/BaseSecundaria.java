@@ -1,6 +1,6 @@
 package model.entity;
 
-public class BaseSecundaria extends Base{
+public class BaseSecundaria extends Base {
 
 	private String tipo;
 
